@@ -6,8 +6,8 @@
 
 <-- Commit 2-->
 ## Technical Skills and Languages:
- *Java(Programming Language)
- *HTML(Programming Language)
- *CSS(Programming Language)
- *Knowledge with Algorithms
- *Database Creation and Management
+ * Java(Programming Language)
+ * HTML(Programming Language)
+ * CSS(Programming Language)
+ * Knowledge with Algorithms
+ * Database Creation and Management
