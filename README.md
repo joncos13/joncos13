@@ -21,3 +21,6 @@
 
 <--Commit 4 -->
 [Visit my LinkedIn](https://www.linkedin.com/in/jonathan-cosgrove-153816227/)
+
+<-- Commit 5-->
+![My Picture](https://media.licdn.com/dms/image/v2/D5603AQGkI-gGSRk7qg/profile-displayphoto-shrink_400_400/B56ZbVnwRIH4Ag-/0/1747340690776?e=1759968000&v=beta&t=2SeMeP4mlu7CkUAGD0w4xDJrbG9N8Vxy8Puc07BdIcc)
