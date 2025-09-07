@@ -18,3 +18,6 @@
    - Complete my courses with Rize
 2. Create a completed portfolio with all projects I have made so far and put them in Github.
 3. Enter the workforce.
+
+<--Commit 4 -->
+[Visit my LinkedIn](https://www.linkedin.com/in/jonathan-cosgrove-153816227/)
