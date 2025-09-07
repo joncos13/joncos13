@@ -11,3 +11,10 @@
  * CSS(Programming Language)
  * Knowledge with Algorithms
  * Database Creation and Management
+
+<-- Commit 3-->
+## Current Goals
+1. Complete my Bachelor's Degree
+   - Complete my courses with Rize
+2. Create a completed portfolio with all projects I have made so far and put them in Github.
+3. Enter the workforce.
